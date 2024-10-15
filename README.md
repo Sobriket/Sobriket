@@ -24,8 +24,6 @@
 
 > Try the game [here](https://sobriket.itch.io/hexasphere)
 
-
-[Link Text](#-ai-tactics-)
 <!--
 **Sobriket/Sobriket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
