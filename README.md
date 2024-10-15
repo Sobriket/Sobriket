@@ -2,16 +2,28 @@
 
 ## >> AI Tactics <<
 ## >> Deeper In My Mind <<
-https://sobriket.itch.io/dimm
+
+> Try the game [here](https://sobriket.itch.io/dimm)
+
 ## >> Dominion Corp <<
-https://sobriket.itch.io/dominion
+
+> Try the game [here](https://sobriket.itch.io/dominion)
+
 ## >> Rogue Like Project <<
-https://sobriket.itch.io/rogue-like-test
+
+> Try the game [here](https://sobriket.itch.io/rogue-like-test)
+
 ## >> The Rite <<
+
+
 ## >> Sand Simulation <<
-https://sobriket.itch.io/sand-simulation
+
+> Try the game [here](https://sobriket.itch.io/sand-simulation)
+
 ## >> Hexasphere <<
-https://sobriket.itch.io/hexasphere
+
+> Try the game [here](https://sobriket.itch.io/hexasphere)
+
 <!--
 **Sobriket/Sobriket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
