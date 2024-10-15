@@ -1,20 +1,6 @@
 # Welcome to Sobriket's Github! 👋
 
 ## >> AI Tactics <<
-## >> Deeper In My Mind <<
-
-> Try the game [here](https://sobriket.itch.io/dimm)
-
-## >> Dominion Corp <<
-
-> Try the game [here](https://sobriket.itch.io/dominion)
-
-## >> Rogue Like Project <<
-
-> Try the game [here](https://sobriket.itch.io/rogue-like-test)
-
-## >> The Rite <<
-
 
 ## >> Sand Simulation <<
 
@@ -23,6 +9,24 @@
 ## >> Hexasphere <<
 
 > Try the game [here](https://sobriket.itch.io/hexasphere)
+
+## >> Deeper In My Mind <<
+
+> Try the game [here](https://sobriket.itch.io/dimm)
+
+## >> The Rite <<
+
+
+## >> Dominion Corp <<
+
+> Try the game [here](https://sobriket.itch.io/dominion)
+
+## >> Minion Invasion <<
+
+
+## >> Rogue Like Project <<
+
+> Try the game [here](https://sobriket.itch.io/rogue-like-test)
 
 <!--
 **Sobriket/Sobriket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
