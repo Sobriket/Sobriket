@@ -67,6 +67,14 @@ It is a game where your goal is to mine asteroids with the help of your drones a
 
 > Try the game [here](https://sobriket.itch.io/rogue-like-test)
 
+This is a rogue like test/prototype and the first project we did on Unity.
+
+<blockquote>
+<b>Engine used :</b>  Unity<br>
+<b>Team size :</b> 2 <br>
+<b>Project duration :</b> 6 months<br>
+<b>Tasks :</b> Procedural map generation 
+</blockquote>
 <!--
 **Sobriket/Sobriket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
