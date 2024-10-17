@@ -7,9 +7,26 @@ Hey! I'm Maxime, a student developer at Créajeux Nîmes. I'm heading into my fi
 
 > Try the game [here](https://sobriket.itch.io/sand-simulation)
 
+This a minimalistic sand simulation made on Unity.
+
+<blockquote>
+<b>Engine used :</b>  Unity<br>
+<b>Team size :</b> 1 <br>
+<b>Project duration :</b> 2 hours
+</blockquote>
+
 ## >> Hexasphere <<
 
 > Try the game [here](https://sobriket.itch.io/hexasphere)
+
+This is a planet generator based on an hexasphere shape made from an icosahedron.
+You need to download the project if you want to test resolution 6 and 7.
+
+<blockquote>
+<b>Engine used :</b>  Unity<br>
+<b>Team size :</b> 1 <br>
+<b>Project duration :</b> 2 weeks
+</blockquote>
 
 ## >> Deeper In My Mind <<
 
@@ -21,10 +38,10 @@ The theme was "Deeper and Deeper" with an optional constraint "Black & White".
 It's an endless runner in first person view, you're playing in a bicolor environment where you have to dodge donuts, crystals, fans and brick walls. 
 Your goal is to go the furthest possible.
 <blockquote>
-Engine used : Unity<br>
-Team size : 5 <br>
-Project duration : 3 days<br>
-Tasks : Map generation and shaders
+<b>Engine used :</b>  Unity<br>
+<b>Team size :</b> 5 <br>
+<b>Project duration :</b> 3 days<br>
+<b>Tasks :</b> Map generation and shaders
 </blockquote>
 
 ## >> The Rite <<
@@ -33,6 +50,15 @@ Tasks : Map generation and shaders
 ## >> Dominion Corp <<
 
 > Try the game [here](https://sobriket.itch.io/dominion)
+
+It is a game where your goal is to mine asteroids with the help of your drones and gather as much resources as you can.
+
+<blockquote>
+<b>Engine used :</b>  Unity<br>
+<b>Team size :</b> 2 <br>
+<b>Project duration :</b> 6 months<br>
+<b>Tasks :</b> Shaders, data gameplay programming 
+</blockquote>
 
 ## >> Minion Invasion <<
 
