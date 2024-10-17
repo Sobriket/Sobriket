@@ -15,6 +15,18 @@ Hey! I'm Maxime, a student developer at Créajeux Nîmes. I'm heading into my fi
 
 > Try the game [here](https://sobriket.itch.io/dimm)
 
+This game has been made for the CreaJam 2024 on Unity. 
+The theme was "Deeper and Deeper" with an optional constraint "Black & White".
+
+It's an endless runner in first person view, you're playing in a bicolor environment where you have to dodge donuts, crystals, fans and brick walls. 
+Your goal is to go the furthest possible.
+<blockquote>
+Engine used : Unity<br>
+Team size : 5 <br>
+Project duration : 3 days<br>
+Tasks : Map generation and shaders
+</blockquote>
+
 ## >> The Rite <<
 
 
