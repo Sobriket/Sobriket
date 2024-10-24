@@ -46,6 +46,22 @@ Your goal is to go the furthest possible.
 
 ## >> The Rite <<
 
+> Try the game [here](https://sobriket.itch.io/the-rite)
+
+You are a young Skrokac and
+
+you're about to undergo your coming-of-age ritual.
+
+You've been training for this for as long as you could remember,
+
+however, everything that could go wrong, will go wrong.
+
+<blockquote>
+<b>Engine used :</b>  Unity<br>
+<b>Team size :</b> 11 <br>
+<b>Project duration :</b> 5 months<br>
+<b>Tasks :</b>Project management,shaders,multitask support
+</blockquote>
 
 ## >> Dominion Corp <<
 
