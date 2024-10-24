@@ -62,6 +62,18 @@ It is a game where your goal is to mine asteroids with the help of your drones a
 
 ## >> Minion Invasion <<
 
+> Try the game [here](https://sobriket.itch.io/minion-invasion)
+
+A long time ago, in a fantasy medieval world, a magic portal was mysteriously opened, pouring hordes of monsters in these peaceful lands. 
+
+The kingdom's army needs to mobilize to repel the invaders."
+
+<blockquote>
+<b>Engine used :</b>  Unity<br>
+<b>Team size :</b> 10 <br>
+<b>Project duration :</b> 5 months<br>
+<b>Tasks :</b> Player Spells,multitask Support
+</blockquote>
 
 ## >> Rogue Like Project <<
 
@@ -74,6 +86,20 @@ This is a rogue like test/prototype and the first project we did on Unity.
 <b>Team size :</b> 2 <br>
 <b>Project duration :</b> 6 months<br>
 <b>Tasks :</b> Procedural map generation 
+</blockquote>
+
+## >> Rodent <<
+
+> Try the game [here](https://sobriket.itch.io/rodent)
+
+You lived your whole life as a rat lab. But now, this is over ! With the help of Volt, the small rodent, you will escape and have your revenge.
+The little mouse will finally bite...
+
+<blockquote>
+<b>Engine used :</b>  SFML<br>
+<b>Team size :</b> 2 <br>
+<b>Project duration :</b> 5 months<br>
+<b>Tasks :</b> Game Physics,enemies and Boss AI
 </blockquote>
 <!--
 **Sobriket/Sobriket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
