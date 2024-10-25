@@ -84,6 +84,13 @@ A long time ago, in a fantasy medieval world, a magic portal was mysteriously op
 
 The kingdom's army needs to mobilize to repel the invaders."
 
+In this game, I had to create player spells:
+
+- The first one creates a zone where meteors spawn to kill enemies.
+- The second one creates a zone that empowers the player's turrets.
+
+When I finished those tasks, I mainly helped others with their tasks, such as upgrading towers (I worked on the mage tower), improving enemy pathing, and building the map.
+
 <b>![NRrkFq](https://github.com/user-attachments/assets/f8bd76b7-26ba-4cd5-adc5-efe55a85da0c)</b>
 
 <b>![UQCsJh](https://github.com/user-attachments/assets/e8f5f05e-85fd-4adf-8fd8-f178ffa0fde9)</b>
@@ -107,9 +114,9 @@ The kingdom's army needs to mobilize to repel the invaders."
 
 This is a rogue like test/prototype and the first project I did on Unity.
 
-In this game I had to do the map generation. 
-I started by doing the main path(from the start to the end) and then I randomly put rooms next to this path until i have no more rooms to place.
-I also did every room types. The goal was to have a lot of enemies room(we stopped at one), a shop, a loot room, a secret room(foundable with a key), empty room and a room where you can use golds to have bonus stats in the level.
+In this game, I was responsible for map generation. 
+I started by creating the main path (from the start to the end) and then randomly placed rooms next to this path until I had no more rooms to add.
+I designed every type of room. The goal was to include many enemy rooms (we stopped at one), a shop, a loot room, a secret room (accessible with a key), an empty room, and a room where players can spend gold to gain bonus stats for the level.
 
 ![Screenshot_2](https://github.com/user-attachments/assets/5dd38790-a963-46ba-a4a1-456ac09f7c66)
 
@@ -127,15 +134,15 @@ I also did every room types. The goal was to have a lot of enemies room(we stopp
 You lived your whole life as a rat lab. But now, this is over ! With the help of Volt, the small rodent, you will escape and have your revenge.
 The little mouse will finally bite...
 
-In this game I had to do 2D physics such as basic OBB AABB collisions and 2D raycasts.
-I also did basic AI for the enemies. They roam from a point to another,detect you if you are in sight and then chase the player.
-And finally I did the Boss of the game(Gonk). 
-He has two types of attack :
-- First he can smash the ground to summon spikes from the ground.
-- Second he tries to hit the player with a giant red beam.
+In this game, I implemented 2D physics, including basic OBB and AABB collisions and 2D raycasts. 
+I also developed basic AI for the enemies, who roam between points, detect you if you’re in sight, and then chase the player. 
+Finally, I designed the boss of the game, Gonk. 
+He has two types of attacks:
 
-He has a shield bar and a life bar. When you manage to reduce his shield to zero he puts a knee to the ground so the player can hit him from the back.
+- First, he can smash the ground to summon spikes. 
+- Second, he tries to hit the player with a giant red beam.
 
+ Gonk has a shield bar and a health bar. When you manage to reduce his shield to zero, he kneels down, allowing the player to hit him from behind.
 ![CA_7EF](https://github.com/user-attachments/assets/5e9db41a-44fe-4d61-b9d4-f01dc66e4f50)
 
 <blockquote>
