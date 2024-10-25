@@ -69,6 +69,14 @@ however, everything that could go wrong, will go wrong.
 
 It is a game where your goal is to mine asteroids with the help of your drones and gather as much resources as you can.
 
+In this game, I worked on mining resource management and shaders. 
+
+I developed tools to create new mining resources, planets, and solar systems. 
+
+I also created a mining beam that changes color for each resource type, as well as the outlines of the asteroids and the starfield background. 
+
+![Screenshot_1](https://github.com/user-attachments/assets/3b1d3975-def5-44b4-b6d2-53b802b7e402)
+
 <blockquote>
 <b>Engine used :</b>  Unity<br>
 <b>Team size :</b> 2 <br>
