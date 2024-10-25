@@ -1,6 +1,6 @@
 # Welcome to Sobriket's Github! 👋
 
-Hey! I'm Maxime, a student developer at Créajeux Nîmes. I'm heading into my final year of studies. Here are some projects I've worked on, feel free to give them a try! 
+Hey! I'm Maxime, a student developer at Creajeux Nîmes. I'm heading into my final year of studies. Here are some projects I've worked on, feel free to give them a try! 
 ## >> AI Tactics <<
 
 ## >> Sand Simulation <<
