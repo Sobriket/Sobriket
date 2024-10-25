@@ -183,6 +183,7 @@ He has two types of attacks:
 - Second, he tries to hit the player with a giant red beam.
 
  Gonk has a shield bar and a health bar. When you manage to reduce his shield to zero, he kneels down, allowing the player to hit him from behind.
+ 
 ![CA_7EF](https://github.com/user-attachments/assets/5e9db41a-44fe-4d61-b9d4-f01dc66e4f50)
 
 <blockquote>
