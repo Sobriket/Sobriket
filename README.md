@@ -105,7 +105,13 @@ The kingdom's army needs to mobilize to repel the invaders."
 
 > Try the game [here](https://sobriket.itch.io/rogue-like-test)
 
-This is a rogue like test/prototype and the first project we did on Unity.
+This is a rogue like test/prototype and the first project I did on Unity.
+
+In this game I had to do the map generation. 
+I started by doing the main path(from the start to the end) and then I randomly put rooms next to this path until i have no more rooms to place.
+I also did every room types. The goal was to have a lot of enemies room(we stopped at one), a shop, a loot room, a secret room(foundable with a key), empty room and a room where you can use golds to have bonus stats in the level.
+
+![Screenshot_2](https://github.com/user-attachments/assets/5dd38790-a963-46ba-a4a1-456ac09f7c66)
 
 <blockquote>
 <b>Engine used :</b>  Unity<br>
@@ -120,6 +126,15 @@ This is a rogue like test/prototype and the first project we did on Unity.
 
 You lived your whole life as a rat lab. But now, this is over ! With the help of Volt, the small rodent, you will escape and have your revenge.
 The little mouse will finally bite...
+
+In this game I had to do 2D physics such as basic OBB AABB collisions and 2D raycasts.
+I also did basic AI for the enemies. They roam from a point to another,detect you if you are in sight and then chase the player.
+And finally I did the Boss of the game(Gonk). 
+He has two types of attack :
+- First he can smash the ground to summon spikes from the ground.
+- Second he tries to hit the player with a giant red beam.
+
+He has a shield bar and a life bar. When you manage to reduce his shield to zero he puts a knee to the ground so the player can hit him from the back.
 
 ![CA_7EF](https://github.com/user-attachments/assets/5e9db41a-44fe-4d61-b9d4-f01dc66e4f50)
 
