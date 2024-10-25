@@ -48,13 +48,16 @@ Your goal is to go the furthest possible.
 
 > Try the game [here](https://sobriket.itch.io/the-rite)
 
-You are a young Skrokac and
+You are a young Skrokac and you're about to undergo your coming-of-age ritual.
+You've been training for this for as long as you could remember,however, everything that could go wrong, will go wrong.
 
-you're about to undergo your coming-of-age ritual.
+In this project, I took on the role of lead, primarily helping others and guiding the team.
 
-You've been training for this for as long as you could remember,
+I worked on the player character, focusing especially on the "Hypervision" power, which allows the player to see elements of his world through walls and provides hints to solve game puzzles.
 
-however, everything that could go wrong, will go wrong.
+I created several post-processing shaders to achieve this effect.
+
+Additionally, I maintained a good flow of information within the team.
 
 <blockquote>
 <b>Engine used :</b>  Unity<br>
@@ -100,7 +103,7 @@ In this game, I had to create player spells:
 When I finished those tasks, I mainly helped others with their tasks, such as upgrading towers (I worked on the mage tower), improving enemy pathing, and building the map.
 
 <b>![NRrkFq](https://github.com/user-attachments/assets/f8bd76b7-26ba-4cd5-adc5-efe55a85da0c)</b>
-
+<!--
 <b>![UQCsJh](https://github.com/user-attachments/assets/e8f5f05e-85fd-4adf-8fd8-f178ffa0fde9)</b>
 
 <b>![ZSA1V5](https://github.com/user-attachments/assets/f28430fb-deaf-4191-a46b-85f715a79ac9)</b>
@@ -108,7 +111,7 @@ When I finished those tasks, I mainly helped others with their tasks, such as up
 <b>![ezG9xH](https://github.com/user-attachments/assets/e7339b94-d7a5-4379-992c-c176f93b91e0)</b>
 
 <b>![07HMpR](https://github.com/user-attachments/assets/e2e33284-ef18-43c0-a1d3-fb2047aeab4e)</b>
-
+-->
 <blockquote>
 <b>Engine used :</b>  Unity<br>
 <b>Team size :</b> 10 <br>
