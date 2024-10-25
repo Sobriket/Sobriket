@@ -9,6 +9,8 @@ Hey! I'm Maxime, a student developer at Créajeux Nîmes. I'm heading into my fi
 
 This a minimalistic sand simulation made on Unity.
 
+![Screenshot_3](https://github.com/user-attachments/assets/9cb4f8d4-5af4-433f-b2c3-cb019023fe16)
+
 <blockquote>
 <b>Engine used :</b>  Unity<br>
 <b>Team size :</b> 1 <br>
@@ -34,7 +36,7 @@ Then, I formed hexagonal-shaped cylinders.
 
 Finally, I created a shader that applies color to each hexagon based on its distance from the center.
 
-![egazg](https://github.com/user-attachments/assets/d5c430b3-057b-43aa-aa63-4170943d8a6c)
+![egazg](https://github.com/user-attachments/assets/437ed3f3-656b-457a-9762-650446b4835a)
 
 <blockquote>
 <b>Engine used :</b>  Unity<br>
