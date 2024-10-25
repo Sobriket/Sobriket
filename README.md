@@ -22,6 +22,20 @@ This a minimalistic sand simulation made on Unity.
 This is a planet generator based on an hexasphere shape made from an icosahedron.
 You need to download the project if you want to test resolution 6 and 7.
 
+First, I created the icosahedron shape.
+
+Then, I divided each triangle into four smaller triangles, with each new point equidistant from the center. 
+
+Finally, I generated hexagons from each point, resulting in a hexasphere.
+
+Once I had the hexasphere, I used 3D Perlin noise to increase or decrease the distance from the center of each hexagon.
+
+Then, I formed hexagonal-shaped cylinders. 
+
+Finally, I created a shader that applies color to each hexagon based on its distance from the center.
+
+![egazg](https://github.com/user-attachments/assets/d5c430b3-057b-43aa-aa63-4170943d8a6c)
+
 <blockquote>
 <b>Engine used :</b>  Unity<br>
 <b>Team size :</b> 1 <br>
@@ -37,6 +51,17 @@ The theme was "Deeper and Deeper" with an optional constraint "Black & White".
 
 It's an endless runner in first person view, you're playing in a bicolor environment where you have to dodge donuts, crystals, fans and brick walls. 
 Your goal is to go the furthest possible.
+
+In this game, I was responsible for map generation, including obstacles.
+
+The map is divided into sections along the main slope, with each section featuring its own environment.
+
+I quickly developed a system to manage each type of obstacle and attach them to the main slope.
+
+I did a black and white post processing shader to match the game atmosphere.
+
+![image_2024-10-15_114221792](https://github.com/user-attachments/assets/2be74d62-1db3-4712-871e-35ba4b0c1827)
+
 <blockquote>
 <b>Engine used :</b>  Unity<br>
 <b>Team size :</b> 5 <br>
@@ -58,6 +83,8 @@ I worked on the player character, focusing especially on the "Hypervision" power
 I created several post-processing shaders to achieve this effect.
 
 Additionally, I maintained a good flow of information within the team.
+
+![Sans titre](https://github.com/user-attachments/assets/f46a7ccc-e81e-4568-97ab-bafeeecd35ea)
 
 <blockquote>
 <b>Engine used :</b>  Unity<br>
@@ -159,7 +186,7 @@ He has two types of attacks:
 <blockquote>
 
 <b>Engine used :</b>  SFML<br>
-<b>Team size :</b> 2 <br>
+<b>Team size :</b> 9 <br>
 <b>Project duration :</b> 5 months<br>
 <b>Tasks :</b> Game Physics,enemies and Boss AI
 </blockquote>
