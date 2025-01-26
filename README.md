@@ -17,7 +17,7 @@ This is my final year study project. The goal is to create an AutoChess/AutoBatt
 - Units Traits : Each unit has a trait and a race. The passives associated with these traits are not implemented yet, but units are built according to their traits, and their stats align with them.
   
    ![Units](https://github.com/user-attachments/assets/78952f46-d276-4f8f-839f-94e736e8b04c)
-- The Shop : Inspired by Team Fight Tactics, the shop offers a choice of three units, each with a specific rarity and cost. Players can see their gold amount and experience points. They can buy experience and check how much is needed to level up. Each level allows players to place one more unit on the board.
+- The Shop : Inspired by <I>Team Fight Tactics</I>, the shop offers a choice of three units, each with a specific rarity and cost. Players can see their gold amount and experience points. They can buy experience and check how much is needed to level up. Each level allows players to place one more unit on the board.
 
    ![Shop](https://github.com/user-attachments/assets/a26760b2-5871-4a09-951a-749355440248)
 - The Machine Learning : Unity MLAgents has been incorporated into the project, and I’ve learned a lot about configuring agents to train together using the self-play hyperparameters in the configuration file.
