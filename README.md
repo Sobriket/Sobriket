@@ -3,7 +3,7 @@
 Hey! I'm Maxime, a student developer at Creajeux Nîmes. I'm heading into my final year of studies. Here are some projects I've worked on, feel free to give them a try! 
 ## >> AI Tactics <<
 
-This is my final year study project. The goal is to create an AutoChess/AutoBattler gameplay and incorporate an AI capable of playing against the player using machine learning, specifically Unity MLAgents.
+This is my final year study project. The goal is to create an AutoChess/AutoBattler gameplay and incorporate an AI capable of playing against the player using machine learning, specifically <I>Unity MLAgents</I>.
 
 ### Project progress :
 
@@ -20,7 +20,7 @@ This is my final year study project. The goal is to create an AutoChess/AutoBatt
 - The Shop : Inspired by <I>Team Fight Tactics</I>, the shop offers a choice of three units, each with a specific rarity and cost. Players can see their gold amount and experience points. They can buy experience and check how much is needed to level up. Each level allows players to place one more unit on the board.
 
    ![Shop](https://github.com/user-attachments/assets/a26760b2-5871-4a09-951a-749355440248)
-- The Machine Learning : Unity MLAgents has been incorporated into the project, and I’ve learned a lot about configuring agents to train together using the self-play hyperparameters in the configuration file.
+- The Machine Learning : <I>Unity MLAgents</I> has been incorporated into the project, and I’ve learned a lot about configuring agents to train together using the self-play hyperparameters in the configuration file.
 I successfully transformed my base project into a machine learning environment and am currently at the second checkpoint on my goals list :
 
    ![Golas](https://github.com/user-attachments/assets/3cfca883-5672-40f0-b203-562f01e3459e)
